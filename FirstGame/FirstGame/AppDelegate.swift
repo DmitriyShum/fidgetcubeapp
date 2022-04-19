@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FirstGame
 //
-//  Created by Dmitriy Shumkin on 1/11/22.
+//  Created by Dmitriy on 1/11/22.
 //
 
 import UIKit
